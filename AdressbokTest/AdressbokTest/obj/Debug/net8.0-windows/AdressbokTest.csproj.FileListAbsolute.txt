@@ -1,0 +1,16 @@
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\bin\Debug\net8.0-windows\AdressbokTest.exe
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\bin\Debug\net8.0-windows\AdressbokTest.deps.json
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\bin\Debug\net8.0-windows\AdressbokTest.runtimeconfig.json
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\bin\Debug\net8.0-windows\AdressbokTest.dll
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\bin\Debug\net8.0-windows\AdressbokTest.pdb
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.Adressbok.resources
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.csproj.GenerateResource.cache
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.AssemblyInfoInputs.cache
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.AssemblyInfo.cs
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.csproj.CoreCompileInputs.cache
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.dll
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\refint\AdressbokTest.dll
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.pdb
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\AdressbokTest.genruntimeconfig.cache
+C:\Users\jessc\Desktop\Inlämningsuppgift 1\AdressbokTest\AdressbokTest\obj\Debug\net8.0-windows\ref\AdressbokTest.dll
